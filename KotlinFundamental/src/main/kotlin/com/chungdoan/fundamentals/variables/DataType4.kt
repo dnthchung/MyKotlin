@@ -18,6 +18,6 @@ fun main() {
     var uLong :ULong = 3u
     uLong = uShort.toULong()
     println(uLong.javaClass)
-    
+
 
 }
