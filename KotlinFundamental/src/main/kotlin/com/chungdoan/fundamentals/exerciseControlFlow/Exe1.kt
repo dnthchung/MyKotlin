@@ -1,4 +1,4 @@
-package com.chungdoan.fundamentals.ExerciseControlFlow
+package com.chungdoan.fundamentals.exerciseControlFlow
 
 import java.util.*
 
