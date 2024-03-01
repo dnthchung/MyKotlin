@@ -12,4 +12,6 @@
     <color name="backgroundColor">#FEF1E0</color>
     <color name="ageTextBackgroundColor">#C846DCE0</color>
     <color name="lightGreyTextColor">#B7B7B7</color>
+    
+    <color name="your_border_color">#FF000000</color>
 </resources>
