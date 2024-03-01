@@ -69,7 +69,6 @@ class MainActivity : ComponentActivity() {
                         tvAgeInMinute?.text = differenceInMinnute.toString()
                     }
                 }
-
                                                },
             year, month, day
         )
