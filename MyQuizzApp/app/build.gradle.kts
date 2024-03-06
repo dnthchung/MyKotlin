@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.doanchung.noteapprxteam"
+    namespace = "com.doanchung.myquizzapp"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.doanchung.noteapprxteam"
+        applicationId = "com.doanchung.myquizzapp"
         minSdk = 21
         targetSdk = 34
         versionCode = 1
@@ -50,18 +50,6 @@ android {
 }
 
 dependencies {
-    implementation("androidx.constraintlayout:constraintlayout:2.2.0-alpha13")
-    // To use constraintlayout in compose
-    implementation("androidx.constraintlayout:constraintlayout-compose:1.1.0-alpha13")
-
-    val fragment_version = "1.6.2"
-
-    // Java language implementation
-//    implementation("androidx.fragment:fragment:$fragment_version")
-    // Kotlin
-    implementation("androidx.fragment:fragment-ktx:$fragment_version")
-    // Testing Fragments in Isolation
-    debugImplementation("androidx.fragment:fragment-testing:$fragment_version")
 
     implementation("androidx.core:core-ktx:1.12.0")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.7.0")
