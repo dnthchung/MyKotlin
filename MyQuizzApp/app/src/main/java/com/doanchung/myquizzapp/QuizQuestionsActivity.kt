@@ -10,6 +10,7 @@ class QuizQuestionsActivity : AppCompatActivity() {
         setContentView(R.layout.activity_quiz_questions)
 
         val questionList = Constants.getQuestions()
+        //muốn show thì cần chạy start qua để kích cái onCreate bên quizAct trước
         Log.i("QuestionsList size is ", "${questionList.size}")
 
     }
