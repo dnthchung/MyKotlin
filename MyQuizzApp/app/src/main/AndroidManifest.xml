@@ -13,10 +13,13 @@
         android:theme="@style/Theme.MyQuizApp"
         tools:targetApi="31">
         <activity
+            android:name=".QuizQuestionsActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true"
-            android:screenOrientation="portrait"
             android:label="@string/app_name"
+            android:screenOrientation="portrait"
             android:theme="@style/Theme.MyQuizApp">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
