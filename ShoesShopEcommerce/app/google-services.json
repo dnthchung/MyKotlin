@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "450482628152",
+    "firebase_url": "https://shoes-shop-ecommerce-default-rtdb.firebaseio.com",
+    "project_id": "shoes-shop-ecommerce",
+    "storage_bucket": "shoes-shop-ecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450482628152:android:d07a16645f24910d15a8cd",
+        "android_client_info": {
+          "package_name": "com.doanchung.shoes_shop_ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4CHArL8wW7nvR9asoHnaJvBNPCQGe_ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

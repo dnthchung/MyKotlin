@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.doanchung.shoes_shop_ecommerce" />
+                  <option name="mobileSdkAppId" value="1:450482628152:android:d07a16645f24910d15a8cd" />
+                  <option name="projectId" value="shoes-shop-ecommerce" />
+                  <option name="projectNumber" value="450482628152" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
