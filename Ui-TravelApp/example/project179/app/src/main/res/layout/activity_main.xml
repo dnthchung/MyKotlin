@@ -326,7 +326,6 @@
                     android:text="See all"
                     android:textColor="@color/blue" />
             </LinearLayout>
-
             <androidx.recyclerview.widget.RecyclerView
                 android:id="@+id/nearView"
                 android:layout_width="match_parent"
@@ -334,6 +333,7 @@
                 android:clipToPadding="false"
                 android:paddingStart="16dp"
                 android:paddingEnd="16dp" />
+
         </LinearLayout>
     </androidx.core.widget.NestedScrollView>
 
@@ -362,15 +362,12 @@
                     android:orientation="vertical">
 
                     <ImageView
-
                         android:layout_width="24dp"
                         android:layout_height="24dp"
                         android:layout_gravity="center_horizontal"
                         android:layout_margin="5dp"
                         app:srcCompat="@drawable/btn_1" />
-
                     <TextView
-
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="Home"
